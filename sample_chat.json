@@ -1,0 +1,13 @@
+{
+  "messages": [
+    {"id": "m1", "user": "Sreevathsa", "text": "Okay team, our main goal for APEX is to finalize the new inventory management system."},
+    {"id": "m2", "user": "Jnyanesh", "text": "Agreed. The top priority should be integrating the barcode scanners."},
+    {"id": "m3", "user": "Unnathi", "text": "I've been looking at the Zebra ZD420 scanners, they seem robust."},
+    {"id": "m4", "user": "Sinchana", "text": "What about the software side? We need a solid API for the scanner data."},
+    {"id": "m5", "user": "Jnyanesh", "text": "Speaking of software, did anyone catch the new VS Code update? The new theme is amazing."},
+    {"id": "m6", "user": "Unnathi", "text": "Oh yeah, I've been using it all morning. It's so much easier on the eyes."},
+    {"id": "m7", "user": "Sreevathsa", "text": "That's cool, but let's get back to the inventory API. We need to define the key endpoints."},
+    {"id": "m8", "user": "Sinchana", "text": "Right. We'll need a POST endpoint for new stock and a GET endpoint for querying item location."},
+    {"id": "m9", "user": "Jnyanesh", "text": "Perfect. Let's map out the data schema for the inventory items."}
+  ]
+}
